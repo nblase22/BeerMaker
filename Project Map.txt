@@ -1,0 +1,9 @@
+User Inputs a style of beer
+
+Model uses that style to suggest a recipe
+
+Return the recipe, as well as some example recipes
+
+Create a flask app/website to run it
+
+FAQ page, other pages?
